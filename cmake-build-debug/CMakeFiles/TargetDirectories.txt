@@ -1,0 +1,3 @@
+C:/Users/matth/Documents/Dev Files/Misc Projects/C++/Box Stats/cmake-build-debug/CMakeFiles/Box_Stats.dir
+C:/Users/matth/Documents/Dev Files/Misc Projects/C++/Box Stats/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/Documents/Dev Files/Misc Projects/C++/Box Stats/cmake-build-debug/CMakeFiles/rebuild_cache.dir
