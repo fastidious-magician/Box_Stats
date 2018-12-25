@@ -2,7 +2,7 @@
 //This program will give lots of stats about your box given length, width, and height.
 //will add looping option for more boxes...and defaults for invalid inputs to keep from crashing :)
 // POSSIBLE BUG: Total Perimeter OVERFLOW
-
+// Date: 01-31-16
 
 #include <iostream>
 using namespace std;
